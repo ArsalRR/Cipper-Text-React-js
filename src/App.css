@@ -1,0 +1,22 @@
+body{
+    display: flex;
+   justify-content: center;
+padding: 0px;
+margin: 0px;
+font-family: 'Poppins', sans-serif;
+}
+button:hover{
+    background-color: #2D3250;
+}
+
+.tombol{
+    margin-left: 95%;
+    margin-bottom: 10px;
+    border: black;
+}
+button{
+    background-color: aliceblue;
+}
+.BH:hover{
+    color: azure;
+}
